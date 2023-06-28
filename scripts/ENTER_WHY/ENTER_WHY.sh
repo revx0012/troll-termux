@@ -1,5 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
+clear
+
 while true; do
     echo -e "Hey! im asking you do not press enter."
     read
