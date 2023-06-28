@@ -5,7 +5,7 @@ Okay, this...
 it will say do not press enter
 
 after you just don't listen and press enter anyway (4 times)
-it spams "WHY" in rainbow colors, it never ends.
+it spams "WHY DID YOU PRESS ENTER?" in rainbow colors, it never ends.
 
 please do not abuse this script as it is harmless.
 you can also exit it by doing CTRL + C
