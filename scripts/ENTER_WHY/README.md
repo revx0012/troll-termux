@@ -6,6 +6,7 @@ it will say do not press enter
 
 after you just don't listen and press enter anyway (4 times)
 it spams "WHY" in rainbow colors
+
 it never ends.
 
 please do not abuse this script as it is harmless.
