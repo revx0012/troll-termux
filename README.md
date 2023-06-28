@@ -8,4 +8,4 @@ you can try and see which one is best for pranking.
 
 # is it harmless?
 
-Of course! why would I create a dangerous script?
+Of course! why would i create a dangerous script?
