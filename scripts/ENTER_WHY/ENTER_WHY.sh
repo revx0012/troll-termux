@@ -30,7 +30,7 @@ while true; do
 
     while true; do
         for color in "${colors[@]}"; do
-            echo -e "${color}W${color}H${color}Y\e[0m"
+            echo -e "${color}W${color}H${color}Y ${color}D${color}I${color}D ${color}Y${color}O${color}U ${color}P${color}R${color}E${color}S${color}S ${color}E${color}N${color}T${color}E${color}R ${color}?\e[0m" 
         done
     done
 done
