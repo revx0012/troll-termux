@@ -17,4 +17,5 @@ Make sure the target has installed python, if you dont know just do ```python3``
 or if not just do ```apt -y install python3```
 
 Also, if it says ```Module not found 'requests'``` just do ```pip3 install requests```
+
 Or if it say ```Module not found 'os'``` do ```pip3 install os```
