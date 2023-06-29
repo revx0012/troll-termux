@@ -12,6 +12,11 @@ it spams "WHY DID YOU PRESS ENTER?" in rainbow colors/more colors, it never ends
 please do not abuse this script as it is harmless.
 you can also exit it by doing CTRL + C
 
-Command:
+# Command
 
 ```wget https://raw.githubusercontent.com/revx0012/troll-termux/main/scripts/ENTER_WHY/ENTER_WHY.sh && bash ENTER_WHY.sh```
+
+
+# Requirements 
+
+None. Just termux.
