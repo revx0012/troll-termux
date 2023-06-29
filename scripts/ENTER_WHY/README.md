@@ -14,7 +14,9 @@ you can also exit it by doing CTRL + C
 
 # Command
 
-```wget https://raw.githubusercontent.com/revx0012/troll-termux/main/scripts/ENTER_WHY/ENTER_WHY.sh && bash ENTER_WHY.sh```
+```bash
+wget https://raw.githubusercontent.com/revx0012/troll-termux/main/scripts/ENTER_WHY/ENTER_WHY.sh && bash ENTER_WHY.sh
+```
 
 
 # Requirements 

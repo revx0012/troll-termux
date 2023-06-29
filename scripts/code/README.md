@@ -8,7 +8,9 @@ And as always, its harmless.
 
 # Command
 
-```wget https://raw.githubusercontent.com/revx0012/troll-termux/main/scripts/code/code.py && python3 code.py```
+```bash
+wget https://raw.githubusercontent.com/revx0012/troll-termux/main/scripts/code/code.py && python3 code.py
+```
 
 # Requirements
 
