@@ -1,9 +1,10 @@
 # whats that?
 
-oh hey! that will do like if you execute it gets your info and pretending that script hacked the target and coming to his house
+oh hey! that will do like if you execute it gets your info and pretending that script hacked the target and coming to his house and dont worry the info wont be sent to me
 
 probably the most common I guess?
 
+And as always, its harmless.
 
 # Command
 
