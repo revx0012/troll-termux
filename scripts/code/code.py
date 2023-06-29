@@ -1,4 +1,10 @@
 import requests
+import os
+
+def clear_screen():
+    os.system('clear')
+
+clear_screen()
 
 def get_location_details():
     try:
@@ -18,7 +24,6 @@ def get_location_details():
     except requests.exceptions.RequestException:
         return "Unknown", "Unknown", "Unknown", "Unknown", "Unknown", "Unknown"
 
-# Example usage
 country, city, ip, isp, latitude, longitude = get_location_details()
 print('Im actually coming to your house, Heres proof:')
 print(f"Your country: {country}")
