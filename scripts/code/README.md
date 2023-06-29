@@ -16,3 +16,4 @@ And as always, its harmless.
 Make sure the target has installed python, if you dont know just do ```python3``` or ```python``` and if it says anything it means it has been installed
 or if not just do ```apt -y install python3```
 
+Also, if it says ```Module Not Found 'requests'``` just do ```pip3 install requests```
